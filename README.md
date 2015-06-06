@@ -1,5 +1,8 @@
 shadowsocks manyuser branch
 ===========
+更新:
+支持自定义表名
+
 Which people need this branch
 ------------------
 1.share shadowsocks server
